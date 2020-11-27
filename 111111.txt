@@ -1,4 +1,5 @@
  Test for fetch on server
  Test for fetch on server2
+ Test fetch data on server
  Test for fetch on server3
  Test fetch index data
